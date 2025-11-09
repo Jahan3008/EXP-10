@@ -1,7 +1,10 @@
 # EXP-6
+
 EXP No. :6 			CHARACTERISTICS M OF LVDT
+
 AIM:To measure output voltage w.r.t the displacement of the core on the LVDT kit and
 find the graphical relationship between the two.
+
 
 APPARATUS: - LVDT kit, Multimeter
 
@@ -25,4 +28,15 @@ PRECAUTION: -
 3. To get the good performance from the kit, main room temperature.
 4. To check the power supply, it should be 220+!- 10% 50Hz to avoid voltage hazard.
 
-RESULT: - LVDT was studied well and graph of displacement was linear for a particular range.
+![WhatsApp Image 2025-11-10 at 01 40 53_04bdd838](https://github.com/user-attachments/assets/1b637711-3240-4e69-8ea5-6e8be92e709b)
+
+![WhatsApp Image 2025-11-10 at 01 40 53_31c3cc2f](https://github.com/user-attachments/assets/aaca0790-3743-4d09-81b6-ef8ebc6435a4)
+
+
+<img width="1003" height="1280" alt="image" src="https://github.com/user-attachments/assets/70c4c482-986e-4708-af97-c38b66685d4f" />
+
+<img width="995" height="1280" alt="image" src="https://github.com/user-attachments/assets/829777c9-c9e9-4c7e-98b2-52f2f2beaa5d" />
+
+
+
+##RESULT: - LVDT was studied well and graph of displacement was linear for a particular range.

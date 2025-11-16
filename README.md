@@ -28,10 +28,13 @@ PRECAUTION: -
 3. To get the good performance from the kit, main room temperature.
 4. To check the power supply, it should be 220+!- 10% 50Hz to avoid voltage hazard.
 
-![WhatsApp Image 2025-11-10 at 01 40 53_04bdd838](https://github.com/user-attachments/assets/1b637711-3240-4e69-8ea5-6e8be92e709b)
+![WhatsApp Image 2025-11-16 at 20 26 43_0f9cb0e7](https://github.com/user-attachments/assets/ceb24ad8-1d11-40e9-ab1a-04f3243df132)
 
-![WhatsApp Image 2025-11-10 at 01 40 53_31c3cc2f](https://github.com/user-attachments/assets/aaca0790-3743-4d09-81b6-ef8ebc6435a4)
+![WhatsApp Image 2025-11-16 at 20 26 43_72a3da10](https://github.com/user-attachments/assets/99782de8-368e-4ff7-9812-c18f14d047ca)
 
+![WhatsApp Image 2025-11-16 at 20 26 43_a7309114](https://github.com/user-attachments/assets/ed9f4949-c62f-457c-9447-44627bb4eee9)
+
+![WhatsApp Image 2025-11-16 at 20 26 44_1759e72c](https://github.com/user-attachments/assets/10196fc7-f54e-4cbe-96fd-27eb07c5eb20)
 
 <img width="1003" height="1280" alt="image" src="https://github.com/user-attachments/assets/70c4c482-986e-4708-af97-c38b66685d4f" />
 
